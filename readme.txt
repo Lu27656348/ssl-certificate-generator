@@ -12,3 +12,5 @@
     autofirmado a partir de la solicitud de firma de certificado generada en el paso anterior. El certificado es válido por 365
      días y se guarda en un archivo llamado server.crt. El certificado autofirmado se utiliza para establecer la identidad del 
      servidor y permitir que los clientes verifiquen que están conectando con el servidor correcto.
+
+Un cambio aquii
